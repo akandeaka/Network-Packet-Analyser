@@ -1,0 +1,6 @@
+Packet Sniffer Log - For educational use only.
+[2025-07-27 19:20:00] Stopped sniffing.
+[2025-07-27 19:20:00] Stopped sniffing.
+[2025-07-27 19:20:02] Stopped sniffing.
+[2025-07-27 19:20:04] Stopped sniffing.
+[2025-07-27 20:10:55] Stopped sniffing.
